@@ -19,3 +19,7 @@ This project focuses on creating an efficient, local-friendly AI experience with
 - **Framework:** WPF (Windows Presentation Foundation)
 - **API:** Groq LLaMA 3.1 (via HTTP POST requests)
 - **Tools:** Visual Studio Community Edition
+
+## Downloading The Program
+- **GoTo** - Go to my Release section to download the initial program(https://github.com/commonsen/QuickTabAI/releases)
+- **Note** - Files are under Testing and not to be used commercially.
