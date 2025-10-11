@@ -1,7 +1,7 @@
 # 🧠 QuickTab AI – Fast, Lightweight Desktop AI Assistant
 
 QuickTab AI is a C# WPF-based desktop assistant designed for speed, simplicity, and ease of use.  
-It connects to the Groq API (LLaMA 3.1 model) to provide real-time, concise AI responses directly inside a clean Windows interface.  
+It connects to the Groq API (groq/compound) to provide real-time, concise AI responses directly inside a clean Windows interface.  
 
 This project focuses on creating an efficient, local-friendly AI experience without requiring heavy frameworks or web apps.
 
@@ -17,7 +17,7 @@ This project focuses on creating an efficient, local-friendly AI experience with
 ## 🏗️ Built With
 - **Language:** C# (.NET 6.0)
 - **Framework:** WPF (Windows Presentation Foundation)
-- **API:** Groq LLaMA 3.1 (via HTTP POST requests)
+- **API:** Groq -groq/compound- (via HTTP POST requests)
 - **Tools:** Visual Studio Community Edition
 
 ## Downloading The Program
