@@ -24,7 +24,7 @@ This project focuses on creating an efficient, local-friendly AI experience with
 - **1**. - **GoTo** - Go to my Release section to download the initial program(https://github.com/commonsen/QuickTabAI/releases)
 - **2**. - Go ahead and download the QuickTabAi.exe file listed down in **assets**
 - **3**. - Once download goto to the folder you have downloaded the program file into 
-- **4**. - Once you find it double click or open the the .exe file and the app should start pop
+- **4**. - Once you find it double click or open the the .exe file and the app should start
 - **5**. - The app might take a few minutes to start up as it connects to the AI Server
 - **Note** - Files are under Testing and not to be used commercially.
 
